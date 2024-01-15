@@ -1,0 +1,2 @@
+# rstemplate
+tailwind, nextjs
